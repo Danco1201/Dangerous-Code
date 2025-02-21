@@ -13,7 +13,7 @@ The `Deadly`  category shows examples of programs that could erase your operatin
 Contributions are welcome! Add more examples of inoffensive, serious, dangerous or deadly code.
 ## **IMPORTANT ADVICE**
 These programs are intended for **educational purposes only**.
-Do **NOT** attempt to replicate, execute, or misuse them (e.g., for not-ethical hacking or malicious purposes).
+Do **NOT** attempt to replicate, execute, or misuse them (e.g., for non-ethical hacking or malicious purposes).
 ## ***FINAL WARNING***
 ***NEVER USE THESE PROGRAMS FOR SABOTAGE OR MALICIOUS ACTIVITIES.***
 By contributing or using this repository, you agree to use these examples only in a safe and educational environment.
