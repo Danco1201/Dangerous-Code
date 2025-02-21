@@ -1,5 +1,5 @@
 # Dangerous Code
-Hi everyone! Welcome to Dangerous Code, the GitHub repository that shows some examples of codes that can be dangerous for your computer. It is recommended not to run this programs, and if you do, please be careful
+Hi everyone! Welcome to Dangerous Code, the GitHub repository that shows some examples of codes that can be dangerous for your computer. It is recommended not to run this programs (Excepting inoffensive files), and if you do, please be careful
 ## Categories
 ### Inoffensive
 The category `Inoffensive` shows you files that are actually harmless to your PC, such as an infinite loop, a file with a lot of information that could be done in a few lines without optimizing, etc. 
